@@ -1,8 +1,45 @@
-Download the following model files from face-api.js and place them in this directory:
-- face_landmark_68_model-weights_manifest.json
-- face_landmark_68_model-shard1
-- face_recognition_model-weights_manifest.json
-- face_recognition_model-shard1
-- face_recognition_model-shard2
-- ssd_mobilenetv1_model-weights_manifest.json
-- ssd_mobilenetv1_model-shard1
+# 💳 Secure Digital Wallet
+
+A modern, secure, and user-friendly **Digital Identity and Document Verification System** built with React, MUI, and blockchain-inspired design principles. This platform empowers users with **Self-Sovereign Identity (SSI)**, ensuring privacy, transparency, and control over their digital credentials.
+
+---
+
+## 🚀 Features
+
+### 🔐 Self-Sovereign Identity (SSI)
+Users fully own and control their digital identities using decentralized wallets and cryptographic proofs.
+
+### 🎯 Zero-Knowledge Verification
+Prove essential attributes (like age or qualifications) without revealing sensitive personal data.
+
+### ⛓️ Blockchain-Inspired Integrity
+Tamper-proof verification records and encrypted storage via decentralized technologies like IPFS and AES-256.
+
+### 📄 Verifiable Credentials
+Trusted issuers (colleges, governments, etc.) issue digital credentials stored securely and verified cryptographically.
+
+---
+
+## 🧠 Core Problems Addressed
+
+- **Lack of Legal IDs** — Millions are unable to access essential services due to lack of documentation.
+- **Centralized Vulnerabilities** — Traditional systems are prone to corruption and single points of failure.
+- **No Data Control** — Users have minimal control over how their data is stored or shared.
+- **Digital Exclusion** — Marginalized communities are often left behind in ID-based systems.
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend           | Description                         |
+|--------------------|-------------------------------------|
+| React.js           | Component-based UI                  |
+| Material-UI (MUI)  | Responsive design system             |
+| Framer Motion      | Animations & transitions             |
+| React Router       | Page routing                         |
+| Context API        | Authentication and global state     |
+
+---
+
+## 📂 Project Structure
+
