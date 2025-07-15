@@ -1,45 +1,29 @@
-# 💳 Secure Digital Wallet
+# Secure Digital Wallet
 
-A modern, secure, and user-friendly **Digital Identity and Document Verification System** built with React, MUI, and blockchain-inspired design principles. This platform empowers users with **Self-Sovereign Identity (SSI)**, ensuring privacy, transparency, and control over their digital credentials.
+Secure Digital Wallet is a digital identity and document verification system built with React and Material-UI. The platform empowers users with self-sovereign identity (SSI), enabling secure, private, and decentralized control over personal data and credentials.
 
----
+## Features
 
-## 🚀 Features
+- Self-sovereign identity using decentralized principles
+- Zero-knowledge verification for privacy-preserving proofs
+- Tamper-resistant verifications inspired by blockchain
+- Issuance and validation of digital credentials
+- Responsive user interface with modern design
+- Authentication-aware navigation
 
-### 🔐 Self-Sovereign Identity (SSI)
-Users fully own and control their digital identities using decentralized wallets and cryptographic proofs.
+## Problems Addressed
 
-### 🎯 Zero-Knowledge Verification
-Prove essential attributes (like age or qualifications) without revealing sensitive personal data.
+- Inaccessibility due to lack of legal identity documents
+- Vulnerabilities in centralized identity systems
+- Limited user control over personal data
+- Exclusion of marginalized communities from essential services
 
-### ⛓️ Blockchain-Inspired Integrity
-Tamper-proof verification records and encrypted storage via decentralized technologies like IPFS and AES-256.
+## Technology Stack
 
-### 📄 Verifiable Credentials
-Trusted issuers (colleges, governments, etc.) issue digital credentials stored securely and verified cryptographically.
+- **Frontend**: React, Material-UI (MUI)
+- **Routing**: React Router
+- **State Management**: React Context API
+- **Animations**: Framer Motion
 
----
-
-## 🧠 Core Problems Addressed
-
-- **Lack of Legal IDs** — Millions are unable to access essential services due to lack of documentation.
-- **Centralized Vulnerabilities** — Traditional systems are prone to corruption and single points of failure.
-- **No Data Control** — Users have minimal control over how their data is stored or shared.
-- **Digital Exclusion** — Marginalized communities are often left behind in ID-based systems.
-
----
-
-## 🛠️ Tech Stack
-
-| Frontend           | Description                         |
-|--------------------|-------------------------------------|
-| React.js           | Component-based UI                  |
-| Material-UI (MUI)  | Responsive design system             |
-| Framer Motion      | Animations & transitions             |
-| React Router       | Page routing                         |
-| Context API        | Authentication and global state     |
-
----
-
-## 📂 Project Structure
+## Project Structure
 
